@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working for myself
 
-- 🍑 Our taobao shop name is (UNCLE BLUE)[https://shop37059667.taobao.com/]
+- 🍑 Our taobao shop name is [UNCLE BLUE](https://shop37059667.taobao.com/)
 
 - 🌱 I’m currently learning `Python` `Swift`
 

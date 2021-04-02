@@ -1,4 +1,4 @@
-### ：）你好啊  Hi there 👋 
+### ：）
 
 <!--
 **muwan/muwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### muwan &#x2003; ![views](https://views.whatilearened.today/views/github/muwan/muwan.svg)
-
+### About me muwan &#8194; ![views](https://views.whatilearened.today/views/github/muwan/muwan.svg) 
 这可能不是一个很 Geek 的程序员，或者已经快要不能算是程序员了吧。
 
 本科学习的是通信工程 🛰️，已经在毕业后全部交给老师了。

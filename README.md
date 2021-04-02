@@ -1,4 +1,4 @@
-### 你好啊：）Hi there 👋 
+### ：）你好啊  Hi there 👋 
 
 <!--
 **muwan/muwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,16 @@ Here are some ideas to get you started:
 
 ### muwan &#x2003; ![views](https://views.whatilearened.today/views/github/muwan/muwan.svg)
 
-这可能不是一个很 Geek 的程序员，或者已经快要不能算是程序员了吧。本科学习的是通信工程 🛰️，已经在毕业后全部交给老师了。毕业后一直从事 iOS📱 开发，用着老旧的语言 ![Objective-C](https://img.shields.io/badge/-Objective--C-blue)现在在和朋友一起做淘宝店铺（UNCEL BLUE）
+这可能不是一个很 Geek 的程序员，或者已经快要不能算是程序员了吧。
+
+本科学习的是通信工程 🛰️，已经在毕业后全部交给老师了。
+
+毕业后一直从事 iOS📱 开发，用着老旧的语言 ![Objective-C](https://img.shields.io/badge/-Objective--C-blue)
+
+现在在和朋友一起做淘宝店铺（UNCEL BLUE）
 
 一份比较惨淡 🥺 的项目统计
+
 ![card](https://github-readme-stats.vercel.app/api?username=muwan&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muwan&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
 

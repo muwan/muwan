@@ -1,4 +1,4 @@
-### ：）
+### ：） About Me
 
 <!--
 **muwan/muwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me muwan &#8194; ![views](https://views.whatilearened.today/views/github/muwan/muwan.svg) 
+### muwan &#8194; ![views](https://views.whatilearened.today/views/github/muwan/muwan.svg) 
 我可能不是一个很 Geek 的程序员，或者已经快要不能算是程序员了吧。本科学习的是通信工程 🛰️，已经在毕业后全部交给老师了。
 
 毕业后一直从事 iOS📱 开发，用着老旧的语言 ![Objective-C](https://img.shields.io/badge/-Objective--C-blue)
